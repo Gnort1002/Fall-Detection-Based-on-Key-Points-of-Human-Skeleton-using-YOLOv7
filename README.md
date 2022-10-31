@@ -1,0 +1,1 @@
+# Fall-Detection-Based-on-Key-Points-of-Human-Skeleton-using-YOLOv7
